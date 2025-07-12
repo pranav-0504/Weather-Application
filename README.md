@@ -6,7 +6,8 @@ A sleek and modern weather application built using **HTML**, **CSS**, and **Java
 
 ### 📸 Project Preview
 
-![Weather App Preview](./images/Project%20Photo.png)
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/d167a7a8-d622-4882-9afd-b52fb847312d" />
+
 
 ---
 
